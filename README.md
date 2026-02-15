@@ -30,13 +30,20 @@ ________________________________________
 
 •	Evaluated outlet performance trends
 
+
 3️⃣ Data Visualization
 
-•	Created clear and professional visualizations using Matplotlib and Seaborn
+Created structured and insightful visualizations using Matplotlib and Seaborn to represent sales patterns clearly and professionally.
 
-•	Represented sales distribution patterns
+📈 Graphs Used in the Project:
 
-•	Highlighted key trends and comparisons
+Bar Charts – Used to compare total sales across product categories and outlet types
+
+Sales Distribution Plots – To visualize revenue concentration and identify performance gaps
+
+Category-wise Comparison Graphs – To highlight top-performing and underperforming segments
+
+These visualizations helped transform numerical data into easy-to-understand insights, making business patterns clearly visible.
 ________________________________________
 
 🛠 Technologies & Libraries Used
